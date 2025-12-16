@@ -79,6 +79,6 @@ For questions or clarifications, reach out via GitHub.
 
 ---
 
-## License
-Educational project – for learning and demonstration purposes.
+> ⚠️ GitHub may not render PDF files inline.  
+> Please download the PDF to view the full report.
 
